@@ -8,3 +8,5 @@ This app will allow users to give the breed, weight, and other information about
 - Personalized product recommendations
 
 __Team: Bailey Hall, Alexander Nunn, Dreana English__
+
+*AS of right now the google api is not working because the credits have run out, the application's map display will work upon google api credits being restored.*
